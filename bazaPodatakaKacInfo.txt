@@ -74,7 +74,6 @@ zar#Mali zar (400g)
 zar#590din
 zar#naslov#Sendvici
 zar#Veliki index na cumuru
-
 zar#220din
 zar#Mali index na cumuru
 zar#200din
