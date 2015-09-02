@@ -1,0 +1,405 @@
+//poruka jedan je veca i moze se gledati kao naslov
+poruka#red1#Nije konacna verzija
+poruka#red2#Novi podaci se dodaju svakim satom.
+//zar valja cenovnik (16.07.2015.), telefon
+zar#063557949
+zar#07h-23h
+zar#14h-23h
+zar#naslov#Jela sa rostilja
+zar#Djacka pljeskavica (100g)
+zar#140din
+zar#Srednja pljeskavica (150g)
+zar#180din
+zar#Velika pljeskavica (200g)
+zar#220din
+zar#Gurmanska velika (250g)
+zar#300din
+zar#Gurmanska mala (150g)
+zar#230din
+zar#Punjena velika (250g)
+zar#300din
+zar#Punjena mala (150g)
+zar#240din
+zar#Spikovana velika (250g)
+zar#300din
+zar#Spikovana mala (150g)
+zar#230din
+zar#Cevapi mali (150g)
+zar#200din
+zar#Cevapi veliki (250g)
+zar#280din
+zar#Rostilj kobasica (150g)
+zar#200din
+zar#Rostilj kobasica (250g)
+zar#280din
+zar#Pilece belo (150g) 
+zar#250din
+zar#Pilece belo punjeno (250g)
+zar#300din
+zar#Pileci batak punjen (250g)
+zar#300din
+zar#Bela vesalica (150g)
+zar#250din
+zar#Punjena vesalica (250g)
+zar#300din
+zar#Dimljena vesalica (150g)
+zar#270din
+zar#Dimljeni vrat (150g)
+zar#270din
+zar#Svinjski raznjici (200g)
+zar#270din
+zar#Punjeni pileci raznjici (250g)
+zar#300din
+zar#Pileci batak (180g) 
+zar#240din
+zar#Becka snicla (200g)
+zar#270din
+zar#Pohovano belo (200g)
+zar#270din
+zar#Pomfrit (300g)
+zar#100din
+zar#Pohovani sir (200g)
+zar#220din
+zar#Ustipak (200g)
+zar#300din
+zar#Rolovani cevap (200g)
+zar#300din
+zar#Som (1kg)
+zar#1100din
+zar#Pastrmka (1kg)
+zar#1100din
+zar#Veliki zar (800g)
+zar#1190din
+zar#Mali zar (400g)
+zar#590din
+zar#naslov#Sendvici
+zar#Veliki index na cumuru
+
+zar#220din
+zar#Mali index na cumuru
+zar#200din
+//becar valja cenovnik (16.07.2015.) i telefon i radno vreme
+becar#0216211555
+becar#07h-??
+becar#08h-00h
+becar#naslov#Pizze
+becar#Kapricoza mala
+becar#450din
+becar#Kapricoza velika
+becar#550din
+becar#Kapricoza porodicna
+becar#900din
+becar#Margarita mala
+becar#400din
+becar#Margarita velika
+becar#500din
+becar#Margarita porodicna
+becar#800din
+becar#Vegeteriana mala
+becar#450din
+becar#Vegeteriana velika
+becar#550din
+becar#Vegeteriana porodicna
+becar#900din
+becar#Becar pizza mala
+becar#450din
+becar#Becar pizza velika
+becar#580din
+becar#Becar pizza porodicna
+becar#950din
+becar#Supreme pizza mala
+becar#450din
+becar#Supreme pizza velika
+becar#580din
+becar#Supreme pizza porodicna
+becar#950din
+becar#Domino pizza mala
+becar#450din
+becar#Domino pizza velika
+becar#580din
+becar#Domino pizza porodicna
+becar#950din
+becar#Madjarica mala
+becar#450din
+becar#Madjarica velika
+becar#580din
+becar#Madjarica porodicna
+becar#950din
+becar#Vojvodjanska mala
+becar#500din
+becar#Vojvodjanska velika
+becar#650din
+becar#Vojvodjanska porodicna
+becar#1100din
+becar#naslov#Sendvici
+becar#Mali index
+becar#200din
+becar#Veliki index
+becar#220din
+becar#Mali index sa kulenom
+becar#220din
+becar#Veliki index sa kulenom
+becar#240din
+becar#Pomfrit mali
+becar#100din
+becar#Pomfrit veliki
+becar#120din
+becar#naslov#Jela sa rostilja
+becar#Pljeskavica
+becar#200din
+becar#Spikovana - Gurmanska
+becar#230din
+becar#Leskovacka pljeskavica
+becar#200din
+becar#Belo meso
+becar#230din
+becar#Bec. piletina punjeno belo (kifla)
+becar#270din
+becar#Pileci batak
+becar#230din
+becar#Punjeni pileci batak
+becar#300din
+becar#Pileci rolovan raznjic
+becar#230din
+becar#Vesalica
+becar#230din
+becar#Cevapi
+becar#200din
+becar#Rolovani cevapi
+becar#230din
+becar#Rostilj kobasica 
+becar#230din
+becar#Pileci specijal
+becar#220din
+becar#Mali becar oval
+becar#600din
+becar#Veliki becar oval
+becar#1200din
+becar#naslov#Palacinke
+becar#Slane palacinke
+becar#150din
+becar#Sa dzemom
+becar#110din
+becar#Sa eurokremom
+becar#120din
+becar#Sa eurokremom i plazmom
+becar#130din
+becar#Sa nutelom
+becar#130din
+becar#Sa nutelom i plazmom
+becar#140din
+//tel valjda, cenovnik valja (18.7.2015.), dostava valja
+3goluba#0216213040
+3goluba#08h-23h
+3goluba#10h-23.30h
+3goluba#naslov#Pizze
+3goluba#Kapricoza mala (25cm)
+3goluba#220din
+3goluba#Kapricoza srednja (33cm)
+3goluba#430din
+3goluba#Kapricoza velika (50cm)
+3goluba#850din
+3goluba#Madjarica mala (25cm)
+3goluba#230din
+3goluba#Madjarica srednja (33cm)
+3goluba#460din
+3goluba#Madjarica velika (50cm)
+3goluba#890din
+3goluba#Venecija mala (25cm)
+3goluba#310din
+3goluba#Venecija srednja (33cm)
+3goluba#570din
+3goluba#Venecija velika (50cm)
+3goluba#1200din
+3goluba#Havaji mala (25cm)
+3goluba#250din
+3goluba#Havaji srednja (33cm)
+3goluba#470din
+3goluba#Havaji velika (50cm)
+3goluba#890din
+3goluba#Tri goluba mala (25cm)
+3goluba#290din
+3goluba#Tri goluba srednja (33cm)
+3goluba#550din
+3goluba#Tri goluba velika (50cm)
+3goluba#1070din
+3goluba#Kvatro mala (25cm)
+3goluba#250din
+3goluba#Kvatro srednja (33cm)
+3goluba#470din
+3goluba#Posna mala (25cm)
+3goluba#250din
+3goluba#Posna srednja (33cm)
+3goluba#470din
+3goluba#Posna velika (50cm)
+3goluba#890din
+3goluba#Napolitana mala (25cm)
+3goluba#230din
+3goluba#Napolitana srednja (33cm)
+3goluba#460din
+3goluba#Napolitana velika (50cm)
+3goluba#890din
+3goluba#naslov#Slatke palacinke
+3goluba#Eurokrem, plazma
+3goluba#130din
+3goluba#Visnje (krem,visnje,slag)
+3goluba#150din
+3goluba#Banane (krem,banane,slag)
+3goluba#150din
+3goluba#Ananas (krem,ananas,slag)
+3goluba#150din
+3goluba#Tri goluba
+3goluba#200din
+3goluba#naslov#Slane palacinke
+3goluba#Kulen
+3goluba#170din
+3goluba#Pizza
+3goluba#150din
+3goluba#Suvi vrat
+3goluba#170din
+//tel valjda, cenovnik valja (8.8.2015.)
+centarpic#0216210083
+centarpic#?
+centarpic#?
+centarpic#naslov#Pizze
+centarpic#Kapricoza mala
+centarpic#380din
+centarpic#Kapricoza velika
+centarpic#500din
+centarpic#Kapricoza porodicna
+centarpic#900din
+centarpic#Madjarica mala
+centarpic#380din
+centarpic#Madjarica velika
+centarpic#500din
+centarpic#Madjarica porodicna
+centarpic#900din
+centarpic#Tuna mala
+centarpic#380din
+centarpic#Tuna velika
+centarpic#500din
+centarpic#Tuna porodicna
+centarpic#900din
+centarpic#Kvatro stadjoni mala
+centarpic#380din
+centarpic#Kvatro stadjoni velika
+centarpic#500din
+centarpic#Kvatro stadjoni porodicna
+centarpic#900din
+centarpic#Vegeterijana mala
+centarpic#330din
+centarpic#Vegeterijana velika
+centarpic#480din
+centarpic#Vegeterijana porodicna
+centarpic#850din
+centarpic#Centar mala
+centarpic#480din
+centarpic#Centar velika
+centarpic#600din
+centarpic#Centar porodicna
+centarpic#1000din
+centarpic#Fazon mala
+centarpic#400din
+centarpic#Fazon velika
+centarpic#550din
+centarpic#Fazon porodicna
+centarpic#980din
+centarpic#naslov#Slane palacinke
+centarpic#Kacke
+centarpic#300din
+centarpic#Pizza
+centarpic#300din
+centarpic#Vegetar
+centarpic#270din
+centarpic#Centar
+centarpic#350din
+centarpic#naslov#Slatke palacinke
+centarpic#Bela kasa
+centarpic#250din
+centarpic#Kis
+centarpic#250din
+centarpic#Centar
+centarpic#300din
+centarpic#Princ
+centarpic#250din
+centarpic#naslov#Ostala jela
+centarpic#Kolenica
+centarpic#500din
+centarpic#Kolenica+pomfrit
+centarpic#600din
+centarpic#Pomfrit
+centarpic#100din
+centarpic#Index
+centarpic#240din
+centarpic#Index plus
+centarpic#260din
+centarpic#Carska rebarca
+centarpic#510din
+centarpic#Vorcester rebarca
+centarpic#540din
+centarpic#Pikant rebarca
+centarpic#520din
+centarpic#Krilca sa susamom
+centarpic#390din
+centarpic#Krilca sa soja sosom
+centarpic#400din
+centarpic#Krilca pikant
+centarpic#400din
+posta#CRadno vreme:=]Radnim danom: 08h-19h=]Subotom: 08h-16h
+posta#SRadno vreme:=]Radnim danom: 08h-17h=]Subotom: 08h-13h
+posta#KRadnim danom: 07h-21h=]Subotom: 07h-21h=]Nedeljom: 08h-13h
+jelic#RRadno vreme: 00h-24h
+jelic#BMB 95
+jelic#143.9din
+jelic#Evro dizel
+jelic#144.9din
+jelic#Auto gas
+jelic#69.9din
+//prodavnice
+cockta#ASvetosavska 104=]Svetosavska 64a=]Kralja Petra I 133=]Zarka Jovica 3=]Zarka Jovica 31=]Mose Pijade 76=]Dobovoljacka 29=]Vladimira Rolovica 42=]Svetozara Markovica 57
+cockta#RRadnim danom: 06h-21h=]Subotom: 06h-21h=]Nedeljom: 07h-12h
+dis#ASvetosavska 3
+dis#RRadnim danom: 06h-22h=]Subotom: 06h-22h=]Nedeljom: ?
+dugaznn#AZarka Jovica 63
+dugaznn#RRadnim danom: 06h-21h=]Subotom: 06h-21h=]Nedeljom: 06h-12h
+gagamaja#ASvetosavska 111=]Svetosavska 61=]Petra Drapsina 9a
+gagamaja#RRadnim danom: 07h-23h=]Subotom: 07h-23h=]Nedeljom: ?
+idea#AKralja Petra I 3
+idea#RRadnim danom: 07h-22h=]Subotom: 07h-22h=]Nedeljom: 07h-14h
+persu#ASvetosavska 48
+persu#RRadnim danom: 06h-21h=]Subotom: 06h-21h=]Nedeljom: ?
+predic#AUgao Vinogradarske i Svetosavske=]Vinogradarska 25=]Dr.Mladena Stojanovica 17
+predic#RRadnim danom: 06h-22h=]Subotom: 06h-22h=]Nedeljom: 06h-22h
+sremag#ASvetosavska 5
+sremag#RRadnim danom: 00h-24h=]Subotom: 00h-24h=]Nedeljom: ?
+univer#AKralja Petra I 1=]Mose Pijade 102
+univer#RRadnim danom: 07h-21h=]Subotom: 07h-21h=]Nedeljom: 07h-14h
+//pekare
+banov#RRadnim danom: 05h-21h=]Subotom: 05h-21h=]Nedeljom: 05h-13h
+banov#ASvetosavska 108=]Kralja Petra I 21
+backozrno#RRadnim danom: 06h-18h=]Subotom: 06h-16h=]Nedeljom: ne radi
+backozrno#ASvetosavska 55
+porta#RRadnim danom: 05h-21h=]Subotom: 05h-21h=]Nedeljom: 05h-13h
+porta#ASvetosavska 5
+klas+#RRadnim danom: 05h-22h=]Subotom: 05h-22h=]Nedeljom: 05h-14h
+klas+#ASvetosavska 2
+radmila#RRadnim danom: 06h-19h=]Subotom: 06h-13h=]Nedeljom: 06h-12h
+radmila#AKralja Petra I 15
+pahulja#RRadnim danom: 05h-21h=]Subotom: 05h-21h=]Nedeljom: 05h-12h
+pahulja#ASvetosavska 84
+//mesare
+djoka#RRadnim danom: 06h-20h=]Subotom: 06h-20h=]Nedeljom: 06h-12h
+djoka#ASvetosavska 23=]Svetosavska 115
+buba#RRadnim danom: 07h-20h=]Subotom: 07h-20h=]Nedeljom: 07h-12h
+buba#ASvetosavska 30
+kolbis#RRadnim danom: 06h-20h=]Subotom: 06h-15h=]Nedeljom: 06h-12h
+kolbis#AProleterska 7
+milic#RRadnim danom: 06h-20h=]Subotom: 06h-20h=]Nedeljom: 06h-12h
+milic#ASvetosavska 8
+//apoteke
+jankovic#RRadnim danom: 07h-21h=]Subotom: 07h-12h
+jankovic#ASvetosavska 64
+irisfarm#RRadnim danom: 08h-20h=]Subotom: 07h-12h
+irisfarm#ASvetosavski dom prizemlje
+drzavnakac#RRadnim danom: 07h-20h=]Subotom: 07h-14h
+drzavnakac#AKralja Petra I 6
