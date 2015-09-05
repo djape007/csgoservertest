@@ -346,7 +346,7 @@ centarpic#Krilca pikant
 centarpic#400din
 posta#CRadno vreme:=]Radnim danom: 08h-19h=]Subotom: 08h-16h
 posta#SRadno vreme:=]Radnim danom: 08h-17h=]Subotom: 08h-13h
-posta#KRadnim danom: 07h-21h=]Subotom: 07h-21h=]Nedeljom: 08h-13h
+posta#KRadnim danom: 07h-19.30h=]Subotom: 07h-19.30h=]Nedeljom: 08h-13h
 jelic#RRadno vreme: 00h-24h
 jelic#BMB 95
 jelic#143.9din
