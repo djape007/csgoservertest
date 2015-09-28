@@ -349,11 +349,11 @@ posta#SRadno vreme:=]Radnim danom: 08h-17h=]Subotom: 08h-13h
 posta#KRadnim danom: 07h-19.30h=]Subotom: 07h-19.30h=]Nedeljom: 08h-13h
 jelic#RRadno vreme: 00h-24h
 jelic#BMB 95
-jelic#143.9din
+jelic#137.4din
 jelic#Evro dizel
-jelic#144.9din
+jelic#139.4din
 jelic#Auto gas
-jelic#69.9din
+jelic#66.9din
 //prodavnice
 cockta#ASvetosavska 104=]Svetosavska 64a=]Kralja Petra I 133=]Zarka Jovica 3=]Zarka Jovica 31=]Mose Pijade 76=]Dobovoljacka 29=]Vladimira Rolovica 42=]Svetozara Markovica 57
 cockta#RRadnim danom: 06h-21h=]Subotom: 06h-21h=]Nedeljom: 07h-12h
