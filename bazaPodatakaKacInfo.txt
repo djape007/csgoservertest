@@ -79,8 +79,8 @@ zar#Mali index na cumuru
 zar#200din
 //becar valja cenovnik (16.07.2015.) i telefon i radno vreme
 becar#0216211555
-becar#07h-??
-becar#08h-00h
+becar#09h-23h
+becar#09h-23h
 becar#naslov#Pizze
 becar#Kapricoza mala
 becar#450din
