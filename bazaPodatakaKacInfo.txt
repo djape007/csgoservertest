@@ -1,6 +1,6 @@
 //poruka jedan je veca i moze se gledati kao naslov
-poruka#red1#Aplikacija je popravljena
-poruka#red2#Server na kom se nalazi baza podataka je imao gresku. Izvinjavamo se zbog toga.
+poruka#red1#Srecna nova godina
+poruka#red2#:)
 //zar valja cenovnik (16.07.2015.), telefon
 zar#063557949
 zar#07h-23h
