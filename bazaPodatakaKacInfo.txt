@@ -353,7 +353,7 @@ jelic#125.9din
 jelic#Evro dizel
 jelic#126.9din
 jelic#Auto gas
-jelic#66.9din
+jelic#64.9din
 //prodavnice
 cockta#ASvetosavska 104=]Svetosavska 64a=]Kralja Petra I 133=]Zarka Jovica 3=]Zarka Jovica 31=]Mose Pijade 76=]Dobovoljacka 29=]Vladimira Rolovica 42=]Svetozara Markovica 57
 cockta#RRadnim danom: 06h-21h=]Subotom: 06h-21h=]Nedeljom: 07h-12h
