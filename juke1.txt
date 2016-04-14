@@ -1,1 +1,1 @@
-trebaDaRadi=ne~Uplatiti ostatak novca
+trebaDaRadi=da~Uplatiti ostatak novca
