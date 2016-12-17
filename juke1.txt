@@ -1,1 +1,1 @@
-trebaDaRadi=ne~Greska 1337
+trebaDaRadi=da~Greska 1337
