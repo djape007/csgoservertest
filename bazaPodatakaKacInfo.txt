@@ -1,6 +1,6 @@
 //poruka jedan je veca i moze se gledati kao naslov
-poruka#red1#Srecna nova godina
-poruka#red2#:)
+poruka#red1#www.kvote.rs
+poruka#red2#www.jukebox.rs
 //zar valja cenovnik (16.07.2015.), telefon
 zar#063557949
 zar#07h-23h
